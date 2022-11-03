@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/github.io/CrowdFund/precache-manifest.706550e1ebb7f3feddadd7de3cf03034.js"
+  "/Crowdfund-Blockchain/precache-manifest.e63a2a768a8aec3075aa234a5c377caf.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/github.io/CrowdFund/index.html", {
+workbox.routing.registerNavigationRoute("/Crowdfund-Blockchain/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

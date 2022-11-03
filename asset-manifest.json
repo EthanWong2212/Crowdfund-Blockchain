@@ -1,15 +1,15 @@
 {
-  "main.css": "/github.io/CrowdFund/static/css/main.e988cb8b.chunk.css",
-  "main.js": "/github.io/CrowdFund/static/js/main.36284222.chunk.js",
-  "main.js.map": "/github.io/CrowdFund/static/js/main.36284222.chunk.js.map",
-  "static/js/1.27919e4d.chunk.js": "/github.io/CrowdFund/static/js/1.27919e4d.chunk.js",
-  "static/js/1.27919e4d.chunk.js.map": "/github.io/CrowdFund/static/js/1.27919e4d.chunk.js.map",
-  "static/js/2.78d3882b.chunk.js": "/github.io/CrowdFund/static/js/2.78d3882b.chunk.js",
-  "static/js/2.78d3882b.chunk.js.map": "/github.io/CrowdFund/static/js/2.78d3882b.chunk.js.map",
-  "runtime~main.js": "/github.io/CrowdFund/static/js/runtime~main.61e896ff.js",
-  "runtime~main.js.map": "/github.io/CrowdFund/static/js/runtime~main.61e896ff.js.map",
-  "static/css/main.e988cb8b.chunk.css.map": "/github.io/CrowdFund/static/css/main.e988cb8b.chunk.css.map",
-  "index.html": "/github.io/CrowdFund/index.html",
-  "precache-manifest.706550e1ebb7f3feddadd7de3cf03034.js": "/github.io/CrowdFund/precache-manifest.706550e1ebb7f3feddadd7de3cf03034.js",
-  "service-worker.js": "/github.io/CrowdFund/service-worker.js"
+  "main.css": "/Crowdfund-Blockchain/static/css/main.e988cb8b.chunk.css",
+  "main.js": "/Crowdfund-Blockchain/static/js/main.36284222.chunk.js",
+  "main.js.map": "/Crowdfund-Blockchain/static/js/main.36284222.chunk.js.map",
+  "static/js/1.27919e4d.chunk.js": "/Crowdfund-Blockchain/static/js/1.27919e4d.chunk.js",
+  "static/js/1.27919e4d.chunk.js.map": "/Crowdfund-Blockchain/static/js/1.27919e4d.chunk.js.map",
+  "static/js/2.78d3882b.chunk.js": "/Crowdfund-Blockchain/static/js/2.78d3882b.chunk.js",
+  "static/js/2.78d3882b.chunk.js.map": "/Crowdfund-Blockchain/static/js/2.78d3882b.chunk.js.map",
+  "runtime~main.js": "/Crowdfund-Blockchain/static/js/runtime~main.ebb501e5.js",
+  "runtime~main.js.map": "/Crowdfund-Blockchain/static/js/runtime~main.ebb501e5.js.map",
+  "static/css/main.e988cb8b.chunk.css.map": "/Crowdfund-Blockchain/static/css/main.e988cb8b.chunk.css.map",
+  "index.html": "/Crowdfund-Blockchain/index.html",
+  "precache-manifest.e63a2a768a8aec3075aa234a5c377caf.js": "/Crowdfund-Blockchain/precache-manifest.e63a2a768a8aec3075aa234a5c377caf.js",
+  "service-worker.js": "/Crowdfund-Blockchain/service-worker.js"
 }
