@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/github/io/precache-manifest.e69f7c54b04496548d67f55f2d348ece.js"
+  "/github.io/CrowdFund/precache-manifest.706550e1ebb7f3feddadd7de3cf03034.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/github/io/index.html", {
+workbox.routing.registerNavigationRoute("/github.io/CrowdFund/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
