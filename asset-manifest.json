@@ -1,15 +1,15 @@
 {
-  "main.css": "/Crowdfund-Blockchain/static/css/main.e988cb8b.chunk.css",
-  "main.js": "/Crowdfund-Blockchain/static/js/main.36284222.chunk.js",
-  "main.js.map": "/Crowdfund-Blockchain/static/js/main.36284222.chunk.js.map",
-  "static/js/1.27919e4d.chunk.js": "/Crowdfund-Blockchain/static/js/1.27919e4d.chunk.js",
-  "static/js/1.27919e4d.chunk.js.map": "/Crowdfund-Blockchain/static/js/1.27919e4d.chunk.js.map",
-  "static/js/2.78d3882b.chunk.js": "/Crowdfund-Blockchain/static/js/2.78d3882b.chunk.js",
-  "static/js/2.78d3882b.chunk.js.map": "/Crowdfund-Blockchain/static/js/2.78d3882b.chunk.js.map",
-  "runtime~main.js": "/Crowdfund-Blockchain/static/js/runtime~main.ebb501e5.js",
-  "runtime~main.js.map": "/Crowdfund-Blockchain/static/js/runtime~main.ebb501e5.js.map",
-  "static/css/main.e988cb8b.chunk.css.map": "/Crowdfund-Blockchain/static/css/main.e988cb8b.chunk.css.map",
-  "index.html": "/Crowdfund-Blockchain/index.html",
-  "precache-manifest.e63a2a768a8aec3075aa234a5c377caf.js": "/Crowdfund-Blockchain/precache-manifest.e63a2a768a8aec3075aa234a5c377caf.js",
-  "service-worker.js": "/Crowdfund-Blockchain/service-worker.js"
+  "main.css": "/EthanWong2212/Crowdfund-Blockchain/static/css/main.e988cb8b.chunk.css",
+  "main.js": "/EthanWong2212/Crowdfund-Blockchain/static/js/main.36284222.chunk.js",
+  "main.js.map": "/EthanWong2212/Crowdfund-Blockchain/static/js/main.36284222.chunk.js.map",
+  "static/js/1.27919e4d.chunk.js": "/EthanWong2212/Crowdfund-Blockchain/static/js/1.27919e4d.chunk.js",
+  "static/js/1.27919e4d.chunk.js.map": "/EthanWong2212/Crowdfund-Blockchain/static/js/1.27919e4d.chunk.js.map",
+  "static/js/2.78d3882b.chunk.js": "/EthanWong2212/Crowdfund-Blockchain/static/js/2.78d3882b.chunk.js",
+  "static/js/2.78d3882b.chunk.js.map": "/EthanWong2212/Crowdfund-Blockchain/static/js/2.78d3882b.chunk.js.map",
+  "runtime~main.js": "/EthanWong2212/Crowdfund-Blockchain/static/js/runtime~main.b61f5c1c.js",
+  "runtime~main.js.map": "/EthanWong2212/Crowdfund-Blockchain/static/js/runtime~main.b61f5c1c.js.map",
+  "static/css/main.e988cb8b.chunk.css.map": "/EthanWong2212/Crowdfund-Blockchain/static/css/main.e988cb8b.chunk.css.map",
+  "index.html": "/EthanWong2212/Crowdfund-Blockchain/index.html",
+  "precache-manifest.584fbff6be939bf226707de5e00b411d.js": "/EthanWong2212/Crowdfund-Blockchain/precache-manifest.584fbff6be939bf226707de5e00b411d.js",
+  "service-worker.js": "/EthanWong2212/Crowdfund-Blockchain/service-worker.js"
 }

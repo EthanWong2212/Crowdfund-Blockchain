@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Crowdfund-Blockchain/precache-manifest.e63a2a768a8aec3075aa234a5c377caf.js"
+  "/EthanWong2212/Crowdfund-Blockchain/precache-manifest.584fbff6be939bf226707de5e00b411d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Crowdfund-Blockchain/index.html", {
+workbox.routing.registerNavigationRoute("/EthanWong2212/Crowdfund-Blockchain/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
